@@ -1,0 +1,20 @@
+{
+  "name": "acessacidade",
+  "version": "5.0.0",
+  "description": "Protótipo CitizenTech para registrar e acompanhar barreiras de acessibilidade urbana (Global Solution 2026.2 - Application Development).",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "acessibilidade",
+    "citizentech",
+    "express",
+    "mongodb"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.2",
+    "mongodb": "^6.12.0"
+  }
+}
